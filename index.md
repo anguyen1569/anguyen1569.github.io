@@ -1,7 +1,7 @@
 
 # An Nguyen 's Portfolio
 
-I am a Business Admin major with deep interest in Computer Science and the art of programming
+I am a Business Admin major at California State University, Fullerton with a deep interest in Computer Science and the art of programming
 I am graduating in summer 2024 , but I am considering getting into a Computer Science program to advance my knowledge in this field. 
 
 ## Computer Science Projects
